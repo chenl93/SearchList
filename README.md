@@ -1,6 +1,7 @@
 # search-list
 
-> A Vue.js project
+> 基于Vue和ElementUI实现的简单的筛选数据的组件
+![avatar](./SearchList.jpg)
 
 ## Build Setup
 
